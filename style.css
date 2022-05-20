@@ -13,3 +13,11 @@
 .background {
     background-color: yellow;
 }
+
+.link {
+    color: darkgreen;
+}
+
+.importantText, .link {
+    font-weight: 600;
+}
