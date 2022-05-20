@@ -1,0 +1,15 @@
+.header {
+    color: darkred;
+}
+
+.subheader {
+    color: blue;
+}
+
+.header, .subheader {
+    background-color: orange;
+}
+
+.background {
+    background-color: yellow;
+}
