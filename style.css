@@ -23,6 +23,14 @@
     font-weight: 600;
 }
 
-.guac {
+#guac {
     background-color: lightgreen;
+}
+
+#chipotle {
+    background-color: lightsalmon;
+}
+
+#tzatiki {
+    background-color: lightgrey;
 }
