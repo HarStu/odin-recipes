@@ -8,6 +8,7 @@
 
 .header, .subheader {
     background-color: orange;
+    text-align: center;
 }
 
 .background {
@@ -20,4 +21,8 @@
 
 .importantText, .link {
     font-weight: 600;
+}
+
+.guac {
+    background-color: lightgreen;
 }
